@@ -1,4 +1,17 @@
+install docker
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
 
+strapi 
+https://strapi.io/
+
+strapi-docker
+https://docs.strapi.io/dev-docs/installation/docker
+
+strapi-s3
+https://strapi.io/blog/how-to-set-up-amazon-s3-upload-provider-plugin-for-our-strapi-app
+
+aws-cli
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 
 
