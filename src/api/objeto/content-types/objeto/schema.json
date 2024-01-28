@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "objetos",
+  "info": {
+    "singularName": "objeto",
+    "pluralName": "objetos",
+    "displayName": "objeto"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    },
+    "imagen": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
